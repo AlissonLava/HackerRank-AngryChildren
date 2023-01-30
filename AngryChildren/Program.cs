@@ -22,6 +22,8 @@ class Result
      * The function accepts following parameters:
      *  1. INTEGER k
      *  2. INTEGER_ARRAY arr
+     *  
+     *  https://www.hackerrank.com/challenges/one-month-preparation-kit-angry-children
      */
 
     public static int maxMin(int k, List<int> arr)
